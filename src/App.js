@@ -81,7 +81,7 @@ function App() {
           max="500"
         />
       </div>
-
+      <hr/>
       <div className="square-container">
         {/* Outer square */}
         <div style={generateSquareStyle()}>
